@@ -12,4 +12,4 @@ Imports:
   dplyr, data.table, sqldf, ggplot2, ggthemes, tidyverse, lubridate
 Suggests:
   scales
-BuildDependencies: roxygen2 (= 4.0.1), Rcpp (>= 0.11)
+BuildDependencies: roxygen2 (>= 4.0.1), Rcpp (>= 0.11)
